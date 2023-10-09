@@ -22,7 +22,7 @@ const moreButtonTmp = document.querySelector('.more-button-template');
 let cardsOnPageState = [];
 
 // Первая загрузка ✅
-
+  
 showPreloader(preloaderTmp, videoContainer);
 showPreloader(preloaderTmp, cardsContainer);
 mainMechanics(endpoint);
